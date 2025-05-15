@@ -3,9 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NjeriCodeCraft&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white"/>
 </p>
 
 ---
