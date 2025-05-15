@@ -41,10 +41,10 @@
   
 
 #### 🗄️ Database Projects (MySQL)
-- 🌐 [CRUD API with FastAPI](https://github.com/NjeriCodeCraft/fastapi-crud) — *Backend API for database operations with FastAPI & MySQL* — **Full Project**
+- 🌐 [CRUD API with FastAPI](https://github.com/NjeriCodeCraft/DatabseFinalProject.git) — *Backend API for database operations with FastAPI & MySQL* — **Full Project**
 
 #### 🐍 Python Projects
-- 📊 [COVID-19 Global Data Tracker](https://github.com/NjeriCodeCraft/covid19-data-tracker) — *Python-based data analysis and visualization project using Pandas, Matplotlib & Seaborn* — **Full Project**
+- 📊 [COVID-19 Global Data Tracker](https://github.com/NjeriCodeCraft/COVID-19-Global-Data-Tracker-plp-python-final-project.git) — *Python-based data analysis and visualization project using Pandas, Matplotlib & Seaborn* — **Full Project**
 
 #### 🤖 AI & ML Projects
 - 🧠 [AI Resume Matcher (Final Year Project)](https://github.com/saadia-essa/finalproject.git) — *A smart resume-job matcher using Flask, NLP & ML algorithms — built in collaboration with [Saadia Essa](https://github.com/saadia-essa)* — **Full Project**
