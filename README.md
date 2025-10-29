@@ -154,7 +154,7 @@ Follow my journey — I’ll be posting notebooks, tutorials, and projects on th
 
 * **Kaggle:** [https://www.kaggle.com/faithnjeri254](https://www.kaggle.com/faithnjeri254)
 * **FreeCodeCamp profile:** [https://www.freecodecamp.org/fccc6464576-7bcf-4ffb-860b-17542f39e38d](https://www.freecodecamp.org/fccc6464576-7bcf-4ffb-860b-17542f39e38d)
-* **Substack (coming alive soon):** [https://faithnjeri.substack.com/](https://faithnjeri.substack.com/)
+* **Substack:** [https://substack.com/@njericodecraft](https://substack.com/@njericodecraft)
 
 > Follow me on Kaggle & LinkedIn — I follow back supportive peers and collab opportunities.
 
