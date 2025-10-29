@@ -38,7 +38,12 @@ I’m **Faith Njeri** — bold, go-getter, curious, analytical. I ship end-to-en
   <a href="https://github.com/NjeriCodeCraft"><img src="https://img.shields.io/badge/GitHub-NjeriCodeCraft-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://www.kaggle.com/faithnjeri254"><img src="https://img.shields.io/badge/Kaggle-faithnjeri254-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
   <a href="https://www.freecodecamp.org/fccc6464576-7bcf-4ffb-860b-17542f39e38d"><img src="https://img.shields.io/badge/FreeCodeCamp-Faith%20Njeri-0A0A0A?style=flat-square&logo=freecodecamp&logoColor=white"/></a>
-  <a href="https://faithnjeri.substack.com/"><img src="https://img.shields.io/badge/Substack-Faith%20Writes%20Code-FF671F?style=flat-square&logo=substack&logoColor=white"/></a>
+  📰 Substack — NjeriCodeCraft
+
+Where I write about tech, growth, and creative coding — lessons from my Data Science & Dev journey, plus essays that mix logic and life.
+
+"Code is poetry when written with clarity."
+New issues drop soon — subscribe if you like your tech stories with heart.
 </p>
 
 ---
