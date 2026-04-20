@@ -91,14 +91,14 @@ I care about clean code, thoughtful design, and impact-driven engineering. My sw
 
 | Skill | Progress | Level |
 |---|---|---|
-| **React.js** | ![90%](https://progress-bar.xyz/90?title=React&width=200&color=7BBBFF&suffix=%) | Advanced |
-| **Node.js / Express** | ![85%](https://progress-bar.xyz/85?title=Node+%2F+Express&width=200&color=B8A9FF&suffix=%) | Advanced |
-| **MongoDB** | ![80%](https://progress-bar.xyz/80?title=MongoDB&width=200&color=7BBBFF&suffix=%) | Proficient |
-| **Python** | ![85%](https://progress-bar.xyz/85?title=Python&width=200&color=B8A9FF&suffix=%) | Advanced |
+| **React.js** | ![90%](https://progress-bar.xyz/90?title=React&width=200&color=7BBBFF&suffix=%) | Proficient |
+| **Node.js / Express** | ![85%](https://progress-bar.xyz/85?title=Node+%2F+Express&width=200&color=B8A9FF&suffix=%) | proficient |
+| **MongoDB** | ![80%](https://progress-bar.xyz/80?title=MongoDB&width=200&color=7BBBFF&suffix=%) | intermediate |
+| **Python** | ![85%](https://progress-bar.xyz/85?title=Python&width=200&color=B8A9FF&suffix=%) | intermediate |
 | **FastAPI** | ![75%](https://progress-bar.xyz/75?title=FastAPI&width=200&color=7BBBFF&suffix=%) | Proficient |
 | **TensorFlow / ML** | ![65%](https://progress-bar.xyz/65?title=TensorFlow&width=200&color=B8A9FF&suffix=%) | Intermediate |
 | **Data Analysis (Pandas/NumPy)** | ![80%](https://progress-bar.xyz/80?title=Data+Analysis&width=200&color=7BBBFF&suffix=%) | Proficient |
-| **TypeScript** | ![70%](https://progress-bar.xyz/70?title=TypeScript&width=200&color=B8A9FF&suffix=%) | Growing |
+| **TypeScript** | ![70%](https://progress-bar.xyz/70?title=TypeScript&width=200&color=B8A9FF&suffix=%) | proficient |
 | **Power BI** | ![70%](https://progress-bar.xyz/70?title=Power+BI&width=200&color=7BBBFF&suffix=%) | Growing |
 
 ---
